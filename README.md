@@ -1,18 +1,9 @@
 # Northline Commerce · Orders
 
-An independent Angular portfolio demo with fictional orders. Search, filter, paginate, and add a sample order through a local mock request. New orders last only for the current browser session.
+An Angular order dashboard portfolio demo. Search, filter, paginate, view summary metrics, and add a sample order through a local mock request. All orders and customer details are fictional. New orders last only for the current browser session.
 
-## Run locally
+## Live demo
 
-Requires Node.js 22 or later.
+https://mohamedmostafasayed.github.io/orderdesk-demo/
 
-```bash
-npm ci
-npm start
-```
-
-## GitHub Pages
-
-This repository publishes through GitHub Actions. In repository Settings → Pages, select **GitHub Actions** as the build and deployment source. The expected URL is `https://mohamedmostafasayed.github.io/orderdesk-demo/` after the workflow succeeds.
-
-All customer and transaction records are fictional. No company code or data is included.
+This repository contains the production build for GitHub Pages. The site is published from the `main` branch root. No company code or data is included.
